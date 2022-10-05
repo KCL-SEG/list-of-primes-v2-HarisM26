@@ -19,5 +19,3 @@ def primes(number_of_primes):
             list.append(n)
         n += 1
     return list
-
-print(primes(0))
